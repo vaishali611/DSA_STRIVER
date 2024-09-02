@@ -1,5 +1,6 @@
 import java.util.*;
 public class file1{
+    /*https://leetcode.com/problems/implement-stack-using-queues/submissions/1376209150/ */
     public static void main(String[] args){
         Stack<Integer> s =new Stack<>();
         s.push(3);
